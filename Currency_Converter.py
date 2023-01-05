@@ -1,4 +1,4 @@
-# pip install CurrencyConverter
+# $ pip install CurrencyConverter
 
 from currency_converter import CurrencyConverter
 import tkinter as tk
