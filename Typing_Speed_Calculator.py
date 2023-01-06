@@ -1,3 +1,6 @@
+# $ pip install python-time
+# $ pip install random2
+
 from time import *
 import random as r
 

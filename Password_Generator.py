@@ -1,3 +1,5 @@
+# $ pip install random2
+
 import random
 
 Pass = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i',
